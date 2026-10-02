@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kiemtraso01\\C\u00E2u 2\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BF35D-E3C6-4EE5-9452-B7E502E23B99}|H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng.csproj|d:\\kiemtraso01\\c\u00E2u 2\\h\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD ph\u01B0\u01A1ng ti\u1EC7n giao th\u00F4ng\\h\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD ph\u01B0\u01A1ng ti\u1EC7n giao th\u00F4ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BF35D-E3C6-4EE5-9452-B7E502E23B99}|H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng.csproj|solutionrelative:h\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD ph\u01B0\u01A1ng ti\u1EC7n giao th\u00F4ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kiemtraso01\\C\u00E2u 2\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\Program.cs",
+              "RelativeDocumentMoniker": "H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\Program.cs",
+              "ToolTip": "D:\\kiemtraso01\\C\u00E2u 2\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\Program.cs",
+              "RelativeToolTip": "H\u1EC7 th\u1ED1ng Qu\u1EA3n l\u00FD Ph\u01B0\u01A1ng ti\u1EC7n Giao th\u00F4ng\\Program.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAswEEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T03:24:03.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

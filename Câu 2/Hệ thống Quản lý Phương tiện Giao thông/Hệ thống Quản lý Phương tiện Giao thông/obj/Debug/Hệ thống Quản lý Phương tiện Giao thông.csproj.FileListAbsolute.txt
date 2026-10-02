@@ -1,0 +1,7 @@
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\bin\Debug\Hệ thống Quản lý Phương tiện Giao thông.exe.config
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\bin\Debug\Hệ thống Quản lý Phương tiện Giao thông.exe
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\bin\Debug\Hệ thống Quản lý Phương tiện Giao thông.pdb
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\obj\Debug\Hệ thống Quản lý Phương tiện Giao thông.csproj.AssemblyReference.cache
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\obj\Debug\Hệ thống Quản lý Phương tiện Giao thông.csproj.CoreCompileInputs.cache
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\obj\Debug\Hệ thống Quản lý Phương tiện Giao thông.exe
+D:\kiemtraso01\Câu 2\Hệ thống Quản lý Phương tiện Giao thông\Hệ thống Quản lý Phương tiện Giao thông\obj\Debug\Hệ thống Quản lý Phương tiện Giao thông.pdb
